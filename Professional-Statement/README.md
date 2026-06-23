@@ -1,1 +1,3 @@
-#Professional Statement:
+#Professional Statement
+
+I am a cybersecurity professional with a Bachelor of Science in Cybersecurity (Computer Network Defense), hands-on experience in security operations, incident response concepts, vulnerability assessment, and network defense, and a strong foundation in protecting critical systems and data. Drawing on leadership experience from the United States Marine Corps and investigative experience in law enforcement, I bring a disciplined, analytical approach to identifying risks, conducting investigations, and solving complex problems under pressure. I am committed to continuous learning and leveraging both technical and investigative skills to help organizations strengthen their security posture, respond to emerging threats, and protect the people and assets they serve.
